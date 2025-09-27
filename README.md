@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Personal profile README
-
 # Hey, I'm Matan 👋
 
 B.Sc. Computer Science student • Interested in **DevOps / GitOps**  
