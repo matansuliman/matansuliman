@@ -21,7 +21,7 @@ B.Sc. Computer Science student • Interested in DevOps
 - Shipping an app with a Helm chart + GitHub Actions CI
 
 ## I’m currently working on
-- nginx + flask + AWS site delivered with docker and 
+- Nginx + Flask + AWS(EC2/Route53/S3) site delivered with Docker 
 
 ## Projects
 - **Drone Precision Landing (MuJoCo + PySide6)** – desktop sim with PID, ArUco detection. [Repo](https://github.com/matansuliman/Workshop-in-Autonomous-Systems-Simulation)
