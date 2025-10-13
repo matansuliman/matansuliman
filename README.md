@@ -9,5 +9,5 @@ B.Sc. Computer Science student • Interested in DevOps
 - [matansuliman.github.io](https://matansuliman.github.io/)
 
 ## How to reach me
-- LinkedIn: [linkedin.com/in/matansuliman](https://linkedin.com/in/matansuliman)
+- [LinkedIn](https://linkedin.com/in/matansuliman)
 
