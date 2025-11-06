@@ -3,11 +3,10 @@
 -->
 
 # Hey, I'm Matan
-B.Sc. Computer Science student • Interested in DevOps
+**B.Sc. CS** student • Interested in **DevOps**
 
-## My Site
-- [matansuliman.github.io](https://matansuliman.github.io/)
+**My site** - [matansuliman.github.io](https://matansuliman.github.io/)
 
-## How to reach me
-- [LinkedIn](https://linkedin.com/in/matansuliman)
+**Reach me** - [LinkedIn](https://linkedin.com/in/matansuliman)
+
 
